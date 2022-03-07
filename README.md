@@ -1,9 +1,9 @@
 # Hello! I’m Geraldine☺️
 
-I started by cybersecurity journey in 
-I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can contact me at snowenya4@gmail.com
+I started by cybersecurity journey in 2021, and am interested in research, investigation and problm-solving.
+I’m currently learning more about pen testing tools, web applications, and JavaScript.
+
+- 📫 You can contact me at gexaldine@gmail.com
 ## My projects
 ### 1. SOChecker
 
