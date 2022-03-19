@@ -7,12 +7,13 @@ I’m currently learning more about pen testing tools, web applications, and Jav
 ## My projects
 ### 1. SOChecker
 
-###### (In progress, updated: 7 March 2022) <br />
-- [x] Set up SOC experimental environment <br />
+###### (In progress, updated: 20 March 2022) <br />
+- [x] Set up SOC experimental environment, inclusive of firewall router, organization and DMZ<br />
 - [x] Set up Elasticsearch, Logstash, and Kibana (ELK) Stack <br />
 - [x] Set up AlienVault <br />
-- [ ] Write a script to run different cyber attacks in the network to check if monitoring alerts appear <br />
-- Check out [documentation](https://github.com/snowenya/SOChecker) for the set up process.
+- [x] Write a script to run different cyber attacks in the network to check if monitoring alerts appear <br />
+- [ ] Documentations for script and alerts
+- Check out [script](https://github.com/snowenya/SOChecker) for the attacks.
 
 ### 2. Vulnerability Assessment
 ###### (In progress, updated: 7 March 2022) <br />
