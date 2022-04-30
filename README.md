@@ -3,7 +3,7 @@
 I started my cybersecurity journey in 2021, and am interested in research, investigation and problem-solving.
 I’m currently learning more about pen testing tools, web applications, and JavaScript.
 
-- 📫 You can contact me at gexaldine@gmail.com
+- 📫 You can contact me at snowenya4@gmail.com
 ## My projects
 ### 1. SOChecker
 
